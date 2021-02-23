@@ -460,6 +460,10 @@ iframe{
 	display: inline-block;
 }
 
+.text_picture p spam {
+	float: left;
+}
+
 .text_picture iframe {
 	float: right;
 	width: 50%;
