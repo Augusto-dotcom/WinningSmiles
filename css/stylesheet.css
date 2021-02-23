@@ -568,7 +568,7 @@ td {
 	padding-top: 0.8vw;
 }
 
-@media only screen and (max-width: 758px) {
+@media only screen and (max-width: 768px) {
   .slideshow_text p{
     font-size: 1.5em;
   }
