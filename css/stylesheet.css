@@ -443,17 +443,13 @@ iframe{
 
 #about_us p, h1{
 	padding: 3% 2% 3% 5%;
-	width: 35%;
+	width: 80%;
 }
 
 #about_us p {
 	font-size: 2em;
 	display: inline-block;
 	padding-top: 1%;
-}
-
-#about_us p span{
-	float: right;
 }
 
 #about_us img{
