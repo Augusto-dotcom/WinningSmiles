@@ -2,6 +2,7 @@
 	scroll-padding-top: 115px;
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 }
 
 
@@ -197,12 +198,6 @@ button{
 	width: 100%;
 	font-size: 2.5em;
 	color: #092477;
-}
-
-@media only screen and (max-width: 758px) {
-  .slideshow_text p{
-    font-size: 1.5em;
-  }
 }
 
 .slideshow .button{
@@ -571,4 +566,10 @@ td {
 
 .form li {
 	padding-top: 0.8vw;
+}
+
+@media only screen and (max-width: 758px) {
+  .slideshow_text p{
+    font-size: 1.5em;
+  }
 }
