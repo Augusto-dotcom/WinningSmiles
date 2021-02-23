@@ -568,5 +568,6 @@ td {
 }
 
 @media only screen and (max-width: 768px) {
-  .slideshow_text p {font-size: 1em;}
+	.slideshow_text p {font-size: 2em;}
+	.banner h3 {font-size: 4em;}
 }
