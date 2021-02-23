@@ -1,3 +1,9 @@
+@media only screen and (max-width: 758px) {
+  .slideshow_text p{
+    font-size: 1.5em;
+  }
+}
+
 * {
 	scroll-padding-top: 115px;
 	margin: 0;
